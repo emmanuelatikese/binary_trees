@@ -4,7 +4,7 @@
  * binary_tree_preorder - This does the preorder list
  *
  * @tree: this the parent
- * @func - This is a function pointer
+ * @func: This is a function pointer
  *
  * Return: returns NULL
  */
